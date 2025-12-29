@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a freelance project.<br>I’m looking for help to improve my project structure.<br>I’m currently learning MongoDB.<br>My transport project, React fundamentals, CRUD operations, or beginner backend concepts.<br>This transport project is helping me learn full-stack development step by step.
+I'm currently working on a freelance project.<br>I’m looking for help to improve my project structure.<br>I’m currently learning MongoDB.<br>Ask me about my transport project, React fundamentals, CRUD operations, or beginner backend concepts.<br>This transport project is helping me learn full-stack development step by step.
 
 
 ## 🌐 Socials:
